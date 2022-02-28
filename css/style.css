@@ -27,10 +27,11 @@ header img{
 main{
     padding-left: 10px;
 }
+
 /* sezione del titolo */
-#titolo{
-    margin-top: 20px;
-    margin-bottom: 20px;
+.blocco{
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 h1{
     font-size: 50px;
@@ -47,4 +48,7 @@ h1{
     color: gray;
 }
 /* fine sezione del titolo */
-
+/* sezione foto con fonte  */
+.fonte{
+    font-size: 10px;
+}
