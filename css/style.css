@@ -52,3 +52,9 @@ h1{
 .fonte{
     font-size: 10px;
 }
+span{
+    background-color: yellow;
+}
+ul{
+    padding-left: 15px;
+}
