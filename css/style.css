@@ -58,3 +58,27 @@ span{
 ul{
     padding-left: 15px;
 }
+/* fine sez foto  */
+/* Tabella */
+table{
+    /* copro tutta la tabella con il background  */
+    border-collapse: collapse;
+    
+    margin-right: 200px;
+}
+td{ 
+    padding-right :100px;
+}
+th{
+    /* allineo il testo da sinistra che table head ha in automatico text-align center */
+    text-align: left;
+
+}
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+tbody tr:nth-child(1), tbody tr:nth-child(3){
+    background-color: #b1e5f2;
+}
+/* finte tabella */
